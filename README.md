@@ -1,2 +1,2 @@
-# DraftUAC
-Draft of Understanding Algebra and Calculus repository
+# UAM
+Understanding Advanced Maths repository
